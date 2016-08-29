@@ -1,0 +1,20 @@
+Source: golang-github-strukturag-spreed-turnservicecli
+Section: devel
+Priority: extra
+Maintainer: struktur AG <opensource@struktur.de>
+Uploaders: Simon Eisenmann <longsleep@redemption.intranet.struktur.de>
+Build-Depends: debhelper (>= 9),
+               dh-golang,
+               golang-go (>= 1.4)
+Standards-Version: 3.9.8
+Homepage: https://github.com/strukturag/spreed-turnservicecli
+XS-Go-Import-Path: github.com/strukturag/spreed-turnservicecli
+
+Package: golang-github-strukturag-spreed-turnservicecli-dev
+Architecture: all
+Depends: ${shlibs:Depends},
+         ${misc:Depends}
+Description: TURN service client implementation for Go
+ spreed-turnservicecli is a Go client library providing a TURN service
+ credentials client and API data structure.
+

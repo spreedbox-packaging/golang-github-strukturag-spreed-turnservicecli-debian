@@ -1,0 +1,5 @@
+golang-github-strukturag-spreed-turnservicecli (0.0~git20160829.0.dcbf3f8-1) trusty; urgency=medium
+
+  * Initial release
+
+ -- Simon Eisenmann <simon@struktur.de>  Mon, 29 Aug 2016 15:20:44 +0200
