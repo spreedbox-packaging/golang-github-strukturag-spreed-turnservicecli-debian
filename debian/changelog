@@ -1,3 +1,10 @@
+golang-github-strukturag-spreed-turnservicecli (0.1.0-1) trusty; urgency=medium
+
+  * Fix watch file (FS#3825).
+  * Imported Upstream version 0.1.0
+
+ -- Joachim Bauch <bauch@struktur.de>  Wed, 14 Dec 2016 17:10:14 +0100
+
 golang-github-strukturag-spreed-turnservicecli (0.0~git20161117.0.b8e469d-1) trusty; urgency=medium
 
   * Imported Upstream version 0.0~git20161117.0.b8e469d
